@@ -58,8 +58,8 @@ Additionally, ensure that:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/line-bot-automation.git
-   cd line-bot-automation
+   git clone https://github.com/yourusername/AI-Line.me-Bot.git
+   cd AI-Line.me-Bot
    ```
 
 2. Install dependencies:
