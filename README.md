@@ -107,6 +107,7 @@ The script includes several configurable parameters. You can modify these in the
 2. **Prepare the LINE Application**:
    - Open the **LINE** desktop application on your Windows machine.
    - Navigate to the chat where you want to use the bot.
+     ![Open](https://github.com/user-attachments/assets/b980d7df-1ec4-496f-a3df-d5d33b5bff28)
    - Right-click on the chat and select **Open in Separate Window**. This ensures the bot can interact without interference from other chats.
    - Click on the **chat bubble panel** (the area displaying the conversation history) **and NOT the chat input box**. This step is crucial because the bot uses the clipboard to detect new messages, and focusing on the chat input box may cause incorrect behavior.
 
@@ -124,7 +125,8 @@ The script includes several configurable parameters. You can modify these in the
 5. **Interact with the Bot**:
    - Type a message in the chat input box, prefixed with `/b` (e.g., `/b who are you?`), and press Enter.
    - The bot will detect the message, process it through the AI model, and simulate typing the response into the chat input field before sending it.
-
+     ![Capture](https://github.com/user-attachments/assets/fcdb0fbb-2548-4092-b165-158dabd173ec)
+     
 6. **Important Notes**:
    - Ensure no other applications interfere with the chat window while the bot is running.
    - Avoid rapid consecutive questions in group chats, as this may confuse the bot due to overlapping messages.
