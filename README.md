@@ -181,32 +181,4 @@ To use this bot with a local AI model, you can set up **LM Studio**, which provi
 
 ---
 
-## Contributing
-
-We welcome contributions! If you'd like to improve this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes (`git commit -m "Add some feature"`).
-4. Push to the branch (`git push origin feature/YourFeatureName`).
-5. Open a pull request.
-
-Please ensure your code adheres to PEP 8 standards and includes appropriate documentation.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- Thanks to the creators of `pyautogui`, `pyperclip`, and `requests` for their excellent libraries.
-- Special thanks to the developers of the AI model API for enabling seamless integration.
-- Thanks to **LM Studio** for providing an easy-to-use interface for local AI models.
-
----
-
 Feel free to reach out if you have any questions or suggestions!
