@@ -1,6 +1,8 @@
 # Line Bot Automation Script
 
-This Python script automates interactions with the **LINE** application on Windows using the `pyautogui` library to simulate user actions (e.g., typing and sending messages) and integrates with an AI model via an API from LM Studio to generate responses. The bot listens for commands prefixed with `/b` (Changable), processes them, and sends back intelligent responses.
+This Python script automates interactions with the LINE application on Windows using the pyautogui library to simulate user actions (e.g., typing and sending messages) and integrates with an AI model via an API from LM Studio to generate responses. The bot listens for commands prefixed with /b (customizable), processes them, and sends back intelligent responses.
+
+Best of all, this solution is completely free ! It leverages open-source tools and libraries, along with your local AI models hosted via LM Studio, ensuring no additional costs for running the bot. Whether you're looking for a personal assistant or a group chat moderator, this script provides a cost-effective way to enhance your LINE chats with AI-powered automation.
 
 ---
 
